@@ -1,0 +1,11 @@
+tensorflow-cpu
+numpy
+librosa
+scikit-learn
+matplotlib
+seaborn
+pandas
+soundfile
+streamlit
+flask
+werkzeug
